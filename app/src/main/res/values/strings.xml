@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">WalkBuddies</string>
+
+    <!-- for the search screen -->
+    <string name="from_string">From:</string>
+    <string name="to_string">To:</string>
+    <string name="switch_direction">Switch</string>
+    <string name="search_name">Name:</string>
+    <string name="search_phone">Phone:</string>
 </resources>
